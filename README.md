@@ -5,7 +5,7 @@
 
 This course gives an introduction to (some aspects of) constructive algebra. Special emphasis is put on the use of [entailment relations](https://pdfs.semanticscholar.org/0d6d/cf4b90ce40edf701ef0c29e376db69473458.pdf).
 
-I hope to complement Thierry Coquand's [summer school](http://www.him.uni-bonn.de/en/application/types-sets-constructions/summer-school/) lectures at the Hausdorff Research Institute for Mathematics in Bonn, May 3-9, 2018. Please have a look at the respective [course website](http://www.cse.chalmers.se/~coquand/BONN/index.html) for the slides and a recommended reading list. Coquand's lectures have been recorded and put [online](https://www.youtube.com/watch?v=Guy60QCTNrk).
+I hope to complement Thierry Coquand's [summer school](http://www.him.uni-bonn.de/en/application/types-sets-constructions/summer-school/) lectures at the Hausdorff Research Institute for Mathematics in Bonn, May 3-9, 2018. Please have a look at the respective [course website](http://www.cse.chalmers.se/~coquand/BONN/index.html) for the slides and a recommended reading list. Coquand's [lectures](https://www.youtube.com/watch?v=Guy60QCTNrk) have been recorded.
 
 Here are some suggestions for further reading:
 
